@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FireChat</string>
+
+
+    <string name="share_activity">Share Activity Demo</string>
+    <string name="shared_activity">Shared Activity Demo</string>
+    <string name="imageview">Share ImageView</string>
+    <string name="share_image">Share Image</string>
+    <string name="share_text">Share Text</string>
+    <string name="select_image">Select Image</string>
+    <string name="enter_text">Enter something to share</string>
+    <string name="shared_text">Shared Text</string>
+    <string name="shared_image">Shared Image</string>
+</resources>
